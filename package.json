@@ -1,0 +1,20 @@
+{
+  "name": "atom-fiction",
+  "main": "./lib/fiction",
+  "version": "0.1.0",
+  "description": "Tools for write fiction.",
+  "keywords": [],
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    }
+  },
+  "repository": "https://github.com/llqgit/fiction",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
